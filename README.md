@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Austin Ayers
+
+- 🔭 I’m currently working on data modeling in Python for Sports Statistics
+- 🌱 I’m currently learning Kubernetes, Agentic AI/Machine Learning, 
+- 📫 How to reach me: amayers123@yahoo.com
 
 <!--
 **A-GingerGT/A-GingerGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
